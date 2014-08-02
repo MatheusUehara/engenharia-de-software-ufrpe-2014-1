@@ -1,2 +1,2 @@
-import MENU
-MENU.start()
+import Input
+Input.start()
